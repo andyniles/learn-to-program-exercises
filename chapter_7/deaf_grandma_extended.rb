@@ -1,4 +1,4 @@
-#Deaf grandma
+#Deaf grandma extended
 
 bye_count = 0
 while true
